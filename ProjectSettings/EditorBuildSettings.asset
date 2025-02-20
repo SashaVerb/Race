@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 61782f86782b3724b9076000ffcb3906
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: adbd0b2f8fb423444b10b25cf2913e79
+  - enabled: 1
+    path: Assets/Scenes/GasStation.unity
+    guid: 40ef6e60490d68541971945758777f58
+  - enabled: 1
+    path: Assets/Scenes/Void.unity
+    guid: 65fd2fd9c33d8a04597b733963277fe6
+  m_configObjects: {}
